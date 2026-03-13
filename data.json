@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning", "Future Tech"],
+    "description": "A deep dive into the next decade of AI and its potential impact on society and technology."
+  },
+  {
+    "title": "Quantum Computing: A Primer",
+    "speakers": ["Prof. Alan Grant", "Dr. Ellie Sattler"],
+    "categories": ["Quantum", "Computing", "Physics"],
+    "description": "An introduction to the mind-bending world of quantum computing and its applications."
+  },
+  {
+    "title": "Modern Web Development with WebAssembly",
+    "speakers": ["John Hammond"],
+    "categories": ["Web Dev", "WASM", "Performance"],
+    "description": "Learn how WebAssembly is revolutionizing web development by enabling near-native performance in the browser."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Ian Malcolm"],
+    "categories": ["Cybersecurity", "Quantum", "Cryptography"],
+    "description": "Exploring the challenges and solutions for securing our digital world against the threat of quantum computers."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Dennis Nedry", "Ray Arnold"],
+    "categories": ["Serverless", "Cloud", "Architecture"],
+    "description": "A comprehensive overview of serverless architectures, their benefits, and best practices for implementation."
+  },
+  {
+    "title": "Ethical Considerations in AI Development",
+    "speakers": ["Dr. Sarah Harding"],
+    "categories": ["AI", "Ethics", "Society"],
+    "description": "A critical discussion on the ethical responsibilities of AI developers and the societal implications of their work."
+  }
+]
